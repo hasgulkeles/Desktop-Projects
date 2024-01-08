@@ -1,0 +1,26 @@
+C:\Users\hasgu\source\repos\proje1\proje1\obj\Debug\proje1.csproj.AssemblyReference.cache
+C:\Users\hasgu\source\repos\proje1\proje1\obj\Debug\proje1.akademisyen_form.resources
+C:\Users\hasgu\source\repos\proje1\proje1\obj\Debug\proje1.Form1_giris.resources
+C:\Users\hasgu\source\repos\proje1\proje1\obj\Debug\proje1.Form_dersler.resources
+C:\Users\hasgu\source\repos\proje1\proje1\obj\Debug\proje1.Form_ogrenciler.resources
+C:\Users\hasgu\source\repos\proje1\proje1\obj\Debug\proje1.Form_senecekler.resources
+C:\Users\hasgu\source\repos\proje1\proje1\obj\Debug\proje1.Properties.Resources.resources
+C:\Users\hasgu\source\repos\proje1\proje1\obj\Debug\proje1.csproj.GenerateResource.cache
+C:\Users\hasgu\source\repos\proje1\proje1\obj\Debug\proje1.csproj.CoreCompileInputs.cache
+C:\Users\hasgu\source\repos\proje1\proje1\bin\Debug\proje1.exe
+C:\Users\hasgu\source\repos\proje1\proje1\bin\Debug\proje1.pdb
+C:\Users\hasgu\source\repos\proje1\proje1\obj\Debug\proje1.exe
+C:\Users\hasgu\source\repos\proje1\proje1\obj\Debug\proje1.pdb
+C:\Users\hasgu\OneDrive\Masaüstü\SQL projeler\proje1_bys\proje1\bin\Debug\proje1.exe
+C:\Users\hasgu\OneDrive\Masaüstü\SQL projeler\proje1_bys\proje1\bin\Debug\proje1.pdb
+C:\Users\hasgu\OneDrive\Masaüstü\SQL projeler\proje1_bys\proje1\obj\Debug\proje1.csproj.AssemblyReference.cache
+C:\Users\hasgu\OneDrive\Masaüstü\SQL projeler\proje1_bys\proje1\obj\Debug\proje1.akademisyen_form.resources
+C:\Users\hasgu\OneDrive\Masaüstü\SQL projeler\proje1_bys\proje1\obj\Debug\proje1.Form1_giris.resources
+C:\Users\hasgu\OneDrive\Masaüstü\SQL projeler\proje1_bys\proje1\obj\Debug\proje1.Form_dersler.resources
+C:\Users\hasgu\OneDrive\Masaüstü\SQL projeler\proje1_bys\proje1\obj\Debug\proje1.Form_ogrenciler.resources
+C:\Users\hasgu\OneDrive\Masaüstü\SQL projeler\proje1_bys\proje1\obj\Debug\proje1.Form_senecekler.resources
+C:\Users\hasgu\OneDrive\Masaüstü\SQL projeler\proje1_bys\proje1\obj\Debug\proje1.Properties.Resources.resources
+C:\Users\hasgu\OneDrive\Masaüstü\SQL projeler\proje1_bys\proje1\obj\Debug\proje1.csproj.GenerateResource.cache
+C:\Users\hasgu\OneDrive\Masaüstü\SQL projeler\proje1_bys\proje1\obj\Debug\proje1.csproj.CoreCompileInputs.cache
+C:\Users\hasgu\OneDrive\Masaüstü\SQL projeler\proje1_bys\proje1\obj\Debug\proje1.exe
+C:\Users\hasgu\OneDrive\Masaüstü\SQL projeler\proje1_bys\proje1\obj\Debug\proje1.pdb
